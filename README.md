@@ -5,4 +5,6 @@ Using gem5 simulator V25
 
 use --help when running to see all flags
 
+create a directory within the gem5 configs folder called "project" to be able to use the test runner script
+
 uses matrix multiply from https://github.com/gem5/gem5-resources/tree/develop/src/matrix-multiply by default
